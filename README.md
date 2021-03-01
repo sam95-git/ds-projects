@@ -1,10 +1,9 @@
 these folder contains two project files 
-1.) Data Analysis project- Sales Insights using Power BI.
+1.) Data Analysis project- Sales Insights using Power BI.(should have mysql and power BI applications to view this project)
 *mysql dump file
 *power BI report
 
-2.)Data Science project-  Home price prediction with ML- model.
+2.)Data Science project-  Home price prediction with ML- model.(should have jupyter notebook IDE to test this codes)
 *csv file used in this project
-
-*all codes in jupyter notebook
+*codes in jupyter notebook
 
